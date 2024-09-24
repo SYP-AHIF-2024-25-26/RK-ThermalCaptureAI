@@ -4,12 +4,13 @@
 
 ### 1.1. Ist-Situation
 
-> :bulb: **Hinweise:**
->
-> - Hier wird zuerst das Projektumfeld geklärt: Geht es um den Imkerverein oder das Schulbuffet der HTL Leonding?
-> - Beschreiben Sie die Istsituation: Um welche Aktivitäten/Abläufe handelt es sich?
+Das Rote Kreuz verwendet Drohnen, um vermisste Personen mithilfe von Wärmebildaufnahmen ausfindig zu machen. Dabei müssen die Piloten die Drohnen steuern und dabei ein aktives Auge auf die Übertragung werfen.
+
 
 ### 1.2. Verbesserungspotenziale
+
+Das Rote Kreuz braucht eine Software zur Erkennung von Menschen auf einem Wärmebild, das von einer Drohne live
+übertragen wird.
 
 > :bulb: **Hinweise:**
 >
