@@ -12,17 +12,13 @@ Das Rote Kreuz verwendet Drohnen, um vermisste Personen mithilfe von Wärmebilda
 Das Rote Kreuz braucht eine Software zur Erkennung von Menschen auf einem Wärmebild, das von einer Drohne live
 übertragen wird.
 
-> :bulb: **Hinweise:**
->
-> - Beschreiben Sie hier die Probleme und Verbesserungspotenziale in bezug auf die Istsituation.
-> - Es sollte dabei klar werden, dass unbedingt Handlungsbedarf besteht!
+Das Problem besteht darin, dass das menschliche Auge schnell Personen auf der Übertragung übersieht.
+
+Dabei wäre eine Software zur Mustererkennung auf Wärmebildern klar im Vorteil.
 
 ## 2. Zielsetzung
 
-> :bulb: **Hinweise:**
->
-> - Skizzieren Sie Ihr Konzept für ein neues System, das die vorher beschriebenen Probleme lösen kann.
-> - Verwenden Sie dazu eine **Mindmap**, um die Kern-Features Ihres Systems herauszuarbeiten.
+![image](assets/mindmap.jpg)
 
 ## 3. Chancen und Risiken
 
