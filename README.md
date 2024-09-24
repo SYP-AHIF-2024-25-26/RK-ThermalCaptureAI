@@ -1,6 +1,4 @@
-# Projektantrag - Vorlage
-
-Verwenden Sie ein Dokumentenformat Ihrer Wahl, aber halten Sie die Vorgaben zur Kapitelstruktur und Inhalt ein:
+# Projektantrag - Drohnen-Wärmebildanalyse
 
 ## 1. Ausgangslage
 
