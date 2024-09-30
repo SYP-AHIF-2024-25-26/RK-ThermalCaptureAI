@@ -10,7 +10,7 @@ Die FH hatte bereits ein Projekt, das mehrere Bilder mithilfe von Integralbildte
 
 ### 1.2. Verbesserungspotenziale
 
-Das Rotes Kreuz braucht ein Framework um das KI model aktiv mit ihren drohnen verknüpft und mithilfe eines Interfacesanzeigt. DAs ist technisch ziemlich kompliziert, da die KI sehr viele ressourcen benötigt.
+Das Rotes Kreuz braucht ein Framework um das KI model aktiv mit ihren drohnen verknüpft und mithilfe eines Interfaces anzeigt. Das ist technisch ziemlich kompliziert, da die KI sehr viele ressourcen benötigt.
 
 
 
@@ -20,10 +20,18 @@ Das Rotes Kreuz braucht ein Framework um das KI model aktiv mit ihren drohnen ve
 
 ## 3. Chancen und Risiken
 
-> :bulb: **Hinweise:**
->
-> - Welchen Nutzen hat Ihr vorgeschlagenes System für die strategische Ausrichtung der Firma?
-> - Mit welchen konkreten Projektrisiken muss man rechnen?
+### 3.1 Chancen
+
+* Oft sind Menschen nur ein Paar wenige Pixel auf den anzeige bildschirmen des roten kreuzes, und die KI würde dies treffsicherer erkennen.
+* Mit dem Web Interface, hat man eine liste an treffern, die dann mit suchhunden abgegangen werden kann.
+
+### 3.2 Risiken
+
+* technisches Realisierungs RIsiko - Es kann sein dass wir es nicht hinbekommen die drohne mit der KI sinnvoll zu verbinden und sinnvollen zeitabschnitten durchzurechnen
+* verwertbarkeitsrisiko -vieleicht ist unsere implementierung so schlecht, dass sie nicht verwendet wird vom roten kreuz
+* Aufwandsrisiko - vileicht haben wir zu wenig/ viel stoff für ein 2 jahre projekt
+* zielsetzungsrisiko -  vileicht schaffen wir es nicht regelmäsig ziele aufzusetzen und diese einzuhalten, und darüber zu reflektieren
+* vileicht haben wir auch ein risiko, indem wir uns streiten bei manchen fragen und eine lösung dafür währ entweder ein projektleiter oder einfach dass wir abstimmen da wir ungerade sind
 
 
 ## 4. Planung
