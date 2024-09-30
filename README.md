@@ -37,3 +37,50 @@ Das Rote Kreuz braucht ein Framework um das KI-Model aktiv mit ihren Drohnen zu 
 5. MS - Verarbeitung der Übertragung im Backend unserer WebApp (29.4.2025)
 6. MS - Anzeigen der Daten im Interface + Gestaltung (17.6.2025)
 7. MS - Optimierungen ()
+
+## User Stories
+
+### Als ein: Pilot
+* Möchte ich dass: Die Bilder, die mit der Drohne aufgenommen werden, an die KI weitergeleitet werden
+* Damit: Die KI eventuell vermisste Personen ausfindig machen kann
+
+Akzeptanzkriterien:
+1. Es besteht eine direkte Verbindung zwischen Drohne und KI
+2. Die KI bekommt die Wärmebilder der Drohne
+3. Der Pilot kann die Übertragung starten, stoppen und anhalten
+4. Jeder Pilot kann eine eigene Session erstellen
+
+### Als ein: Beobachter
+* Möchte ich dass: Die ausgewerteten Bilder inklusive der dazugehörigen, wichtigen Metadaten auf einer Web page angezeigt werden
+* Damit: Die Suche von vermissten Personen für Einsatzkräfte leichter und effektiver wird
+
+Akzeptanzkriterien:
+1. Es wird ein Integralbild zurückgegeben, auf dem (eine) Person(en) erkennbar ist/sind
+2. Beobachter können zwischen Sessions wechseln
+3. Die Bilder und Metadaten werden auf der Seite angezeigt
+4. Die Liste von Koordinaten kann exportiert werden
+5. Daten werden gespeichert
+6. Daten können zur Löschung freigegeben werden
+
+## Technologien
+
+### Frontend:
+
+- Typescript
+- Angular
+- Websockets
+- CSS
+
+### Backend:
+
+- C#
+- ASP.NET.Core
+- Websockets
+
+### KI-Anbindung
+
+- C++
+
+### Drone Video Capture
+
+- Python
