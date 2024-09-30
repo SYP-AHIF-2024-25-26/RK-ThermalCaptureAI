@@ -6,9 +6,11 @@
 
 Das Rote Kreuz verwendet Drohnen, um vermisste Personen mithilfe von Wärmebildaufnahmen ausfindig zu machen. Dabei müssen die Piloten die Drohnen steuern und dabei ein aktives Auge auf die Übertragung werfen.
 
+Die FH hatte bereits ein Projekt, das mehrere Bilder mithilfe von Integralbildtechnologie und KI analysiert und Menschen ausfindig macht.
+
 ### 1.2. Verbesserungspotenziale
 
-Das Rotes Kreuz brauch ein Framework um das KI model aktiv in der Personen 
+Das Rotes Kreuz braucht ein Framework um das KI model aktiv mit ihren drohnen verknüpft und mithilfe eines Interfacesanzeigt. DAs ist technisch ziemlich kompliziert, da die KI sehr viele ressourcen benötigt.
 
 
 
