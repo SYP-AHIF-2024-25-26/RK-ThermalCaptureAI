@@ -6,15 +6,11 @@
 
 Das Rote Kreuz verwendet Drohnen, um vermisste Personen mithilfe von Wärmebildaufnahmen ausfindig zu machen. Dabei müssen die Piloten die Drohnen steuern und dabei ein aktives Auge auf die Übertragung werfen.
 
-
 ### 1.2. Verbesserungspotenziale
 
-Das Rote Kreuz braucht eine Software zur Erkennung von Menschen auf einem Wärmebild, das von einer Drohne live
-übertragen wird.
+Das Rotes Kreuz brauch ein Framework um das KI model aktiv in der Personen 
 
-Das Problem besteht darin, dass das menschliche Auge schnell Personen auf der Übertragung übersieht.
 
-Dabei wäre eine Software zur Mustererkennung auf Wärmebildern klar im Vorteil.
 
 ## 2. Zielsetzung
 
