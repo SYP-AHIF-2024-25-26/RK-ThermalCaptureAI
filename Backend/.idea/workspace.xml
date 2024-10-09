@@ -5,47 +5,43 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ae43c07-8e78-4cbd-b488-ee37a4d620d2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/testing/uploadTest/images/cat.1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testing/uploadTest/images/cat.10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testing/uploadTest/images/cat.11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testing/uploadTest/images/cat.12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testing/uploadTest/images/cat.13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testing/uploadTest/images/cat.14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testing/uploadTest/images/cat.15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testing/uploadTest/images/cat.16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testing/uploadTest/images/cat.17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testing/uploadTest/images/cat.18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testing/uploadTest/images/cat.19.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testing/uploadTest/images/cat.2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testing/uploadTest/images/cat.20.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testing/uploadTest/images/cat.21.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testing/uploadTest/images/cat.22.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testing/uploadTest/images/cat.23.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testing/uploadTest/images/cat.24.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testing/uploadTest/images/cat.25.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testing/uploadTest/images/cat.26.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testing/uploadTest/images/cat.27.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testing/uploadTest/images/cat.28.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testing/uploadTest/images/cat.29.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testing/uploadTest/images/cat.3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testing/uploadTest/images/cat.30.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testing/uploadTest/images/cat.31.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testing/uploadTest/images/cat.32.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testing/uploadTest/images/cat.33.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testing/uploadTest/images/cat.4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testing/uploadTest/images/cat.5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testing/uploadTest/images/cat.6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testing/uploadTest/images/cat.7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testing/uploadTest/images/cat.8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testing/uploadTest/images/cat.9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testing/uploadTest/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testing/uploadTest/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/Backend.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/Backend.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/obj/Debug/net8.0/Backend.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/obj/Debug/net8.0/Backend.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/obj/Debug/net8.0/Backend.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/obj/Debug/net8.0/Backend.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/uploadTest/videostreaming.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/uploadTest/images/cat.1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/testing/uploadTest/image/cat.1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/uploadTest/images/cat.10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/uploadTest/images/cat.11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/uploadTest/images/cat.12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/uploadTest/images/cat.13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/uploadTest/images/cat.14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/uploadTest/images/cat.15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/uploadTest/images/cat.16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/uploadTest/images/cat.17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/uploadTest/images/cat.18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/uploadTest/images/cat.19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/uploadTest/images/cat.2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/uploadTest/images/cat.20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/uploadTest/images/cat.21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/uploadTest/images/cat.22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/uploadTest/images/cat.23.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/uploadTest/images/cat.24.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/uploadTest/images/cat.25.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/uploadTest/images/cat.26.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/uploadTest/images/cat.27.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/uploadTest/images/cat.28.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/uploadTest/images/cat.29.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/uploadTest/images/cat.3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/uploadTest/images/cat.30.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/uploadTest/images/cat.31.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/uploadTest/images/cat.32.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/uploadTest/images/cat.33.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/uploadTest/images/cat.4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/uploadTest/images/cat.5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/uploadTest/images/cat.6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/uploadTest/images/cat.7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/uploadTest/images/cat.8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/uploadTest/images/cat.9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/uploadTest/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/testing/uploadTest/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/uploadTest/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/testing/uploadTest/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +64,7 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Python.main.executor": "Run",
     "Python.python main.py.executor": "Run",
+    "Python.python videostreaming.py.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/moritz/Documents/GitHub/Document/RK-ThermalCaptureAI/Backend",
@@ -84,7 +81,7 @@
       <recent name="$PROJECT_DIR$/testing/uploadTest/images" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.python main.py">
+  <component name="RunManager" selected="Python.python videostreaming.py">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Backend" />
       <option name="ENV_FILES" value="" />
@@ -132,12 +129,37 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="python videostreaming.py" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Backend" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testing/uploadTest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="videostreaming.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.main" />
       <item itemvalue="Python.python main.py" />
+      <item itemvalue="Python.python videostreaming.py" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.python videostreaming.py" />
         <item itemvalue="Python.python main.py" />
       </list>
     </recent_temporary>
@@ -158,7 +180,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728396764335</updated>
-      <workItem from="1728396765332" duration="1121000" />
+      <workItem from="1728396765332" duration="2854000" />
     </task>
     <servers />
   </component>
@@ -167,6 +189,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Backend$main.coverage" NAME="main Coverage Results" MODIFIED="1728397526650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/Backend$python_main_py.coverage" NAME="python main.py Coverage Results" MODIFIED="1728397849722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testing/uploadTest" />
+    <SUITE FILE_PATH="coverage/Backend$python_main_py.coverage" NAME="python main.py Coverage Results" MODIFIED="1728398062236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testing/uploadTest" />
+    <SUITE FILE_PATH="coverage/Backend$python_videostreaming_py.coverage" NAME="python videostreaming.py Coverage Results" MODIFIED="1728400209803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testing/uploadTest" />
   </component>
 </project>
