@@ -17,9 +17,13 @@ Werden wir mit unseren lehrern alle 1-2 Monate machen und mit Github Milestones 
 * Zuständiges Teammitglied
 * Zugehöhriger Meilenstein
 * Umfang
-* Priorität (Optional)
 * Neue Issues werden asap in den Project Backlog(Github) eingetragen.
-* beim Closen von issues, wird (wenn möglich) ein Commit verlinked.
+* (Optional) Priorität 
+* (Optional) beim Closen von issues, wird (wenn möglich) ein Commit verlinked.
+    * beim Commiten "{Keyword} #issueId {deine message}" in die message am anfang schreiben\
+    dabei ist ein keyword eines davon: fix, fixes, closed, closes, resolve, resolved\
+    zb: ```git commit  -m "Fix #69: fixed the array bug"```
+
 
 #### Project Backlog
 Um Einen Überblick darüber zu haben, welche Issues wir aktuell bearbeiten (müssen). und welche bereits abgeschlossen sind, verwenden wir den GitHubg Project Backlog.
