@@ -1,5 +1,10 @@
 # Projektantrag - Drohnen-Wärmebildanalyse
 
+## Planung
+
+1. Recherche (5.11.2024)
+2. Erster Prototyp (5.12.2024)
+
 ## 1. Ausgangslage
 
 ### 1.1. Ist-Situation
@@ -27,10 +32,6 @@ Es braucht ein Setup, um das KI-Model aktiv mit ihren Drohnen zu verknüpfen und
 * Technisches Realisierungsrisiko - Es kann sein, dass wir es nicht hinbekommen, die Bildübertragung der Drohne an die KI effizient anzubinden und die Auswertungen zeitgerecht an unser Web Interface auszuliefern
 * Verwertbarkeitsrisiko - Vielleicht ist unsere Implementierung nicht reif genug für eine hilfreiche Unterstützung beim RK
 * Aufwandsrisiko - Unter Umständen können sich die Anforderungen im Laufe der Zeit ändern
-
-## 4. Planung
-
-1. MS - Prototyp (4.11.2024)
 
 ## User Stories
 
