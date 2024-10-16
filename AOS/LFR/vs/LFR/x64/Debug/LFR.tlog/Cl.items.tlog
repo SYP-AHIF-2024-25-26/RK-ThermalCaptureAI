@@ -1,0 +1,12 @@
+C:\Users\leoob\Downloads\LFR\include\imgui\imgui.cpp;C:\Users\leoob\Downloads\LFR\vs\LFR\x64\Debug\imgui.obj
+C:\Users\leoob\Downloads\LFR\include\imgui\imgui_draw.cpp;C:\Users\leoob\Downloads\LFR\vs\LFR\x64\Debug\imgui_draw.obj
+C:\Users\leoob\Downloads\LFR\include\imgui\imgui_impl_glfw.cpp;C:\Users\leoob\Downloads\LFR\vs\LFR\x64\Debug\imgui_impl_glfw.obj
+C:\Users\leoob\Downloads\LFR\include\imgui\imgui_impl_opengl3.cpp;C:\Users\leoob\Downloads\LFR\vs\LFR\x64\Debug\imgui_impl_opengl3.obj
+C:\Users\leoob\Downloads\LFR\include\imgui\imgui_widgets.cpp;C:\Users\leoob\Downloads\LFR\vs\LFR\x64\Debug\imgui_widgets.obj
+C:\Users\leoob\Downloads\LFR\src\AOS.cpp;C:\Users\leoob\Downloads\LFR\vs\LFR\x64\Debug\AOS.obj
+C:\Users\leoob\Downloads\LFR\src\AOSGenerator.cpp;C:\Users\leoob\Downloads\LFR\vs\LFR\x64\Debug\AOSGenerator.obj
+C:\Users\leoob\Downloads\LFR\src\glad.c;C:\Users\leoob\Downloads\LFR\vs\LFR\x64\Debug\glad.obj
+C:\Users\leoob\Downloads\LFR\src\gl_utils.cpp;C:\Users\leoob\Downloads\LFR\vs\LFR\x64\Debug\gl_utils.obj
+C:\Users\leoob\Downloads\LFR\src\image.cpp;C:\Users\leoob\Downloads\LFR\vs\LFR\x64\Debug\image.obj
+C:\Users\leoob\Downloads\LFR\src\main.cpp;C:\Users\leoob\Downloads\LFR\vs\LFR\x64\Debug\main.obj
+C:\Users\leoob\Downloads\LFR\src\utils.cpp;C:\Users\leoob\Downloads\LFR\vs\LFR\x64\Debug\utils.obj
