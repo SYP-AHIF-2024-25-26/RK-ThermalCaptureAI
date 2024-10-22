@@ -51,7 +51,7 @@ class CameraControl :
             os.mkdir( out_folder)
         self._out_folder = out_folder
         if not self._addsynthethicimage:
-            self._FlirVideoSource = cv2.VideoCapture(self._cameraIndex)
+            self._FlirVideoSource = cv2.VideoCapture(0)
             OldHeight = self._FlirVideoSource.get(3)
             OldWidth = self._FlirVideoSource.get(4)
             returnedflag = self._FlirVideoSource.set(3,self._image_res_x)

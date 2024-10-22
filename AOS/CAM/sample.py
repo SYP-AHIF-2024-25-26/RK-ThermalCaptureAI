@@ -34,7 +34,7 @@ if __name__ == '__main__':
     count = 0 
     for image in frames_info['Frames']:
         count += 1
-        im = ud.undistort( image )
+        im =  ud.undistort( image )
         cv2.imshow('undistorted image {} (time: {:.1f})'.format(count, times[count-1]),im)
     
    
